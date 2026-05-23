@@ -35,7 +35,7 @@ Active Meditation is completely blocked by wearing a single piece of any metal a
 
 Train from Mage NPCs to reach around 50.
 
-Meditation gain is not difficulty-based; you have a chance to gain every time your character regenerates a mana point.
+Meditation gain is not difficulty-based, and you have a chance to gain every time your character regenerates a mana point whether passively or through active meditation.
 
 Because active Meditation regenerates mana twice as fast, it is faster to train the skill through active meditation.
 
