@@ -4,11 +4,19 @@
 
 ## Overview
 
-Meditation helps regenerate mana. You can either regen passively, every time your mana is below your INT, or actively, by using the skill, you will enter a "trance" that will be broken if you speak or make any other action. Active regen is faster than passive.
+Meditation helps regenerate mana and is indispensable for characters that cast spells frequently.
+
+Mana regenerates passively whenever your mana is below your INT; the Meditation skill boosts the rate of that passive regeneration. 
+
+You can also activate the skill to enter a trance, which while maintained gives an additional 2x bonus to your regen rate. Speaking, moving, performing actions, or receiving damage or any other negative effect will break the trance.
+
+## Intelligence
+
+Independent of the Meditation skill, characters with higher INT regenerate mana at a faster rate than those with lower INT. This is important to understand when planning you skill and stat distributions.
 
 ## Armor
 
-Armor reduces the passive regen-rate bonus from Meditation, with the exception of leather armor. The effect scales with the type of armor (studded < chain < plate), and is cumulative with the number of armor pieces worn at a time.
+The passive regen-rate bonus from Meditation is reduced when wearing armor (with the exception of leather armor, which is frequently worn by mages for this reason). The penalty scales with the strength of the armor, and is cumulative with the number of armor pieces worn at a time.
 
 The following table shows the approximate impact of wearing a full suit of a given armor type:
 |Armor type|Relative passive<br>regen rate|Relative time to<br>fully recover|
@@ -17,19 +25,21 @@ The following table shows the approximate impact of wearing a full suit of a giv
 | Studded | 51% | 1.95x | <!-- 0 to 55, at 55int/GMmed, in 2m55s -->
 | Bone | ? | ? | <!-- 0 to 55, at 55int/GMmed, in 
 | Chainmail | 33% | 3x | <!-- 0 to 55, at 55int/GMmed, in 4m30s -->
-| PLatemail | ? | ? | <!-- 0 to 55,at 55int/GMmed, in 
+| Platemail | ? | ? | <!-- 0 to 55,at 55int/GMmed, in 
 
-
-
-Active Meditation is completely blocked by metal armor (ringmail+): the skill cannot be activated.
+Active Meditation is completely blocked by wearing a single piece of any metal armor (ringmail+): the skill cannot be activated at all.
 
 ## Training
 
 Train from Mage NPCs to reach around 50.
 
-In order to gain skill points you need to regenerate mana, you can consume mana by either casting spells or by equipping and un-quipping a magical wizard hat. You can gain points with passive regen or you can try to use Meditation when your are not at full mana.
+Meditation gain is not difficulty-based; you have a chance to gain every time your character regenerates a mana point.
 
-When training Magery you will also naturally gain Meditation too.
+Because active Meditation regenerates mana twice as fast, it is faster to train the skill through active meditation.
+
+Passive regen is effective though, and can be triggered cost-free by simply doffing (-5 INT) and donning (+5 INT) a magic wizard's hate purchased from a Mage NPC-- each time your INT goes down and up, your mana is left at the lower number and you begin regenerating. Cycling a mage hat in this way every 5 seconds or so will raise the skill to 100.0 in well under 24 hours, and can be done while training other skills.
+
+Grandmaster Meditation is not necessary for training Magery, although it does accelerate it. Starting with 50 in each skill, your character will reach 100.0 Meditation by the time your Magery is around 80.0.
 
 ## Related skills
 
