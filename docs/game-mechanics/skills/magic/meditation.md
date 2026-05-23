@@ -12,7 +12,9 @@ You can also activate the skill to enter a trance, which while maintained gives 
 
 ## Intelligence
 
-Independent of the Meditation skill, characters with higher INT regenerate mana at a faster rate than those with lower INT. This is important to understand when planning you skill and stat distributions.
+Your maximum storeable mana is the same number as your INT stat, and your passive regeneration rate is calculated as a % of that total pool. For this reason, characters with higher INT regenerate mana at a faster rate than those with lower INT.
+
+This is independent of the Meditation skill, but is important to understand when planning your skill and stat distributions.
 
 ## Armor
 
@@ -37,7 +39,7 @@ Meditation gain is not difficulty-based; you have a chance to gain every time yo
 
 Because active Meditation regenerates mana twice as fast, it is faster to train the skill through active meditation.
 
-Passive regen is effective though, and can be triggered cost-free by simply doffing (-5 INT) and donning (+5 INT) a magic wizard's hate purchased from a Mage NPC-- each time your INT goes down and up, your mana is left at the lower number and you begin regenerating. Cycling a mage hat in this way every 5 seconds or so will raise the skill to 100.0 in well under 24 hours, and can be done while training other skills.
+Passive regen is effective though, and can be triggered cost-free by simply doffing (-5 INT) and donning (+5 INT) a magic wizard's hat purchased from a Mage NPC-- each time your INT goes down and up, your mana is left at the lower number and you begin regenerating. Cycling a mage hat in this way every 5 seconds or so will raise the skill to 100.0 in well under 24 hours, and can be done while training other skills.
 
 Grandmaster Meditation is not necessary for training Magery, although it does accelerate it. Starting with 50 in each skill, your character will reach 100.0 Meditation by the time your Magery is around 80.0.
 
